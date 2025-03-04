@@ -9,4 +9,4 @@ Style Transfer Notebook: https://www.kaggle.com/code/ashishjangra27/gender-class
 
 GAN Model Training Notebook: https://www.kaggle.com/code/ashishjangra27/face-generation-with-gan
 
-GAN Model: https://github.com/AshishJangra27/Face-Generator-with-GAN
+Generator Model: https://github.com/AshishJangra27/Face-Generator-with-GAN
